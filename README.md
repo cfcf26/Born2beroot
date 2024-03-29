@@ -20,3 +20,4 @@ The Born2beRoot project is a system administration exercise that introduces the 
 - Set up a service of your choice that you think is useful (NGINX / Apache2 excluded!). During the defense, you will have to justify your choice.
 - To complete the bonus part, you have the possibility to set up extra services. In this case, you may open more ports to suit your needs. Of course, the UFW/Firewalld rules have to be adapted accordingly.
 - The bonus part will only be assessed if the mandatory part is PERFECT. Perfect means the mandatory part has been integrally done and works without malfunctioning. If you have not passed ALL the mandatory requirements, your bonus part will not be evaluated at all.
+<img width="630" alt="스크린샷 2024-03-29 오전 11 29 36" src="https://github.com/cfcf26/Born2beroot/assets/75878816/bb3a1f10-9452-4420-a95e-074d0cc8c5eb">
